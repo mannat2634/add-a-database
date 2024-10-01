@@ -1,5 +1,5 @@
 {
-    "name": "sit725-2023-t2-p2",
+    "name": "sit725-2024-t2-p3",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -9,14 +9,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/stephenliu8964/sit725-2023-t2-prac2.git"
+      "url": "https://github.com/mannat2634/add-a-database"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/stephenliu8964/sit725-2023-t2-prac2/issues"
+      "url": "https://github.com/mannat2634/add-a-database/issues"
     },
-    "homepage": "https://github.com/stephenliu8964/sit725-2023-t2-prac2#readme",
+    "homepage": "https://github.com/mannat2634/add-a-database#readme",
     "dependencies": {
       "expresss": "^0.0.0",
       "mongodb": "^4.4.1",
